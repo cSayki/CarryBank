@@ -1,0 +1,9 @@
+[0m[0m
+[0m[4mC:\Rangement\Ecole\S6\transverse\site-web\src\pages\Dashboard.jsx[24m[0m
+[0m    [2m1:10[22m  [31merror[39m  'useState' is defined but never used. Allowed unused vars must match /^[A-Z_]/u   [2mno-unused-vars[22m[0m
+[0m    [2m1:20[22m  [31merror[39m  'useEffect' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  [2mno-unused-vars[22m[0m
+[0m   [2m38:40[22m  [31merror[39m  'Icon' is defined but never used                                                  [2mno-unused-vars[22m[0m
+[0m  [2m133:52[22m  [31merror[39m  'i' is defined but never used                                                     [2mno-unused-vars[22m[0m
+[0m[0m
+[0m[31m[1m✖ 4 problems (4 errors, 0 warnings)[22m[39m[0m
+[0m[31m[1m[22m[39m[0m
