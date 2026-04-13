@@ -1,16 +1,42 @@
-# React + Vite
+# 🏦 CarryBank - Fintech Gamifiée
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CarryBank est une plateforme de gestion budgétaire innovante qui transforme l'épargne en une expérience ludique et engageante. Conçue pour simplifier la finance personnelle, elle allie des outils de suivi précis à un système de récompenses interactif.
 
-Currently, two official plugins are available:
+## ✨ Fonctionnalités Clés
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*   **Tableau de Bord Dynamique** : Visualisation claire du solde, des transactions récentes et de la répartition du budget.
+*   **Système de Gamification** : Progression par niveaux (XP), gain de badges et défis pour encourager l'épargne.
+*   **Gestion de Budget** : Suivi précis par catégories avec indicateurs visuels de dépassement.
+*   **Objectifs d'Épargne** : Création de projets (Voyage, Permis de conduire, PC Gaming) avec suivi de progression interactif.
+*   **Interface Premium** : Design "Glassmorphism" ultra-moderne, animations fluides avec Framer Motion et mode responsive complet.
 
-## React Compiler
+## 🛠️ Stack Technique
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+*   **Frontend** : [React](https://reactjs.org/) (Hooks, Context API)
+*   **Build Tool** : [Vite](https://vitejs.dev/)
+*   **Styling** : [Tailwind CSS](https://tailwindcss.com/)
+*   **Animations** : [Framer Motion](https://www.framer.com/motion/)
+*   **Graphiques** : [Recharts](https://recharts.org/)
+*   **Icônes** : [Lucide React](https://lucide.dev/)
 
-## Expanding the ESLint configuration
+## 🚀 Installation et Lancement
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Pour lancer le projet localement :
+
+1.  **Cloner le dépôt**
+    ```bash
+    git clone https://github.com/votre-username/carrybank.git
+    cd carrybank
+    ```
+
+2.  **Installer les dépendances**
+    ```bash
+    npm install
+    ```
+
+3.  **Lancer le serveur de développement**
+    ```bash
+    npm run dev
+    ```
+
+---
